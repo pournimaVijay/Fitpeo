@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-27T18:31:35 IST" name="Default suite" finished-at="2024-11-27T18:32:22 IST" duration-ms="46954">
+    <groups>
+    </groups>
+    <test started-at="2024-11-27T18:31:35 IST" name="Default test" finished-at="2024-11-27T18:32:22 IST" duration-ms="46954">
+      <class name="com.tests.Tests">
+        <test-method is-config="true" signature="launchUrl()[pri:0, instance:com.tests.Tests@2eae8e6e]" started-at="2024-11-27T18:31:36 IST" name="launchUrl" finished-at="2024-11-27T18:31:41 IST" duration-ms="5587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tests.Tests@2eae8e6e]" started-at="2024-11-27T18:31:41 IST" name="setup" finished-at="2024-11-27T18:31:41 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homePage()[pri:1, instance:com.tests.Tests@2eae8e6e]" started-at="2024-11-27T18:31:41 IST" name="homePage" finished-at="2024-11-27T18:31:44 IST" duration-ms="2790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="revenueCalculatorPage()[pri:2, instance:com.tests.Tests@2eae8e6e]" started-at="2024-11-27T18:31:44 IST" name="revenueCalculatorPage" finished-at="2024-11-27T18:31:50 IST" duration-ms="5839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- revenueCalculatorPage -->
+        <test-method signature="scrollToSliderSection()[pri:3, instance:com.tests.Tests@2eae8e6e]" started-at="2024-11-27T18:31:50 IST" name="scrollToSliderSection" finished-at="2024-11-27T18:31:54 IST" duration-ms="4181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollToSliderSection -->
+        <test-method signature="adjustSlider()[pri:4, instance:com.tests.Tests@2eae8e6e]" started-at="2024-11-27T18:31:54 IST" name="adjustSlider" finished-at="2024-11-27T18:32:03 IST" duration-ms="8624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adjustSlider -->
+        <test-method signature="updateTextField()[pri:5, instance:com.tests.Tests@2eae8e6e]" started-at="2024-11-27T18:32:03 IST" name="updateTextField" finished-at="2024-11-27T18:32:04 IST" duration-ms="1462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateTextField -->
+        <test-method signature="validateSliderValue()[pri:6, instance:com.tests.Tests@2eae8e6e]" started-at="2024-11-27T18:32:04 IST" name="validateSliderValue" finished-at="2024-11-27T18:32:06 IST" duration-ms="1258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSliderValue -->
+        <test-method signature="selectCPTCodes()[pri:7, instance:com.tests.Tests@2eae8e6e]" started-at="2024-11-27T18:32:06 IST" name="selectCPTCodes" finished-at="2024-11-27T18:32:16 IST" duration-ms="10237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCPTCodes -->
+        <test-method signature="validateSelectedTotalRecurringReimbursement()[pri:8, instance:com.tests.Tests@2eae8e6e]" started-at="2024-11-27T18:32:16 IST" name="validateSelectedTotalRecurringReimbursement" finished-at="2024-11-27T18:32:16 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSelectedTotalRecurringReimbursement -->
+        <test-method signature="validateAllTotalRecurringReimbursement()[pri:9, instance:com.tests.Tests@2eae8e6e]" started-at="2024-11-27T18:32:16 IST" name="validateAllTotalRecurringReimbursement" finished-at="2024-11-27T18:32:22 IST" duration-ms="5931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAllTotalRecurringReimbursement -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tests.Tests@2eae8e6e]" started-at="2024-11-27T18:32:22 IST" name="tearDown" finished-at="2024-11-27T18:32:22 IST" duration-ms="569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
